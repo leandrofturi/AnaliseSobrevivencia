@@ -1,0 +1,18 @@
+Dados "hodgkins"
+
+Descrição dos dados:
+Base de dados apresentada por Bartolucci e Fraser (1977). Dados consistem em 60 pacientes com doença de Hodgkins 
+que receberam tratamento padrão para a doença. 
+Idade, sexo, estágio da doença, histologia, tempo de vida em meses e indicador de óbito foram observados de cada paciente. 
+
+
+Descrição das variáveis:
+
+-id: identificação do paciente.
+-survivaltime: tempo de vida em meses
+-dead: indicador de morte, com as categorias 0 - não e 1 - sim
+-age: idade em anos
+-sex: gênero, com as categorias 0 - feminino e 1 - masculino
+-stage: estágio da doença, com as categorias 0 - inicial e 1 - avançado
+-hist: histologia,com 3 categorias 1 - esclerose nodular, 2 - misto celular e 3 - depleção de linfócitos
+

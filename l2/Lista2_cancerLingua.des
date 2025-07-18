@@ -1,0 +1,5 @@
+Os dados estão apresentados em três colunas:
+1- Perfil do DNA do tumor (1= com aneuploidia, 2 = normal (diplóide))
+2- Tempo, em semanas, até óbito ou até saída do paciente do estudo
+3- Indicador de óbito (1= óbtio, 0= censura).
+
