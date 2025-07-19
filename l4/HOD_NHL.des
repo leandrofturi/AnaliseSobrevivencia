@@ -1,0 +1,10 @@
+O arquivo  HOD_NHL.csv são referentes a 43 pacientes com linfoma de Hodgking ou linfoma não Hodgking, submetidos a  transplante de medula óssea. O arquivo contém 4 colunas:
+
+- Graft - Tipo de transplante feito: (1) se alogênico ou (2) se autólogo;
+
+- Time - Tempo (em dias) decorrido entre o transplante e a ocorrência de óbito/recorrência ou tempo entre o transplante e censura a direita;
+
+- D_R - indicador de ocorrência do evento (1 se óbito ou recorrência);
+
+- Karnofsky - Escore de Karnofsky.
+
